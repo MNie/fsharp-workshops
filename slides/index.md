@@ -14,3 +14,13 @@
 4. Writing .NET applications in F# (talk + workshop)
 
 ***
+
+### Useful Links
+
+* [F# website](http://fsharp.org/)
+* [Pluralsight courses on F#](https://www.pluralsight.com/search?q=f%23&categories=course)
+* [Scott Wlaschin's Blog](https://fsharpforfunandprofit.com)
+* [Tomas Petricek's Blog](http://tomasp.net/)
+* [Mark Seemann's Blog](http://blog.ploeh.dk/)
+
+***
