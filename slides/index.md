@@ -9,9 +9,9 @@
 ## F# CAMP
 
 1. [Introduction to Functional Programming (talk only)](http://theimowski.com/fsharp-workshops-intro)
-2. Basic concepts of Functional Programming (talk + workshop)
-3. Functional Data Structures (talk + workshop)
-4. Writing .NET applications in F# (talk + workshop)
+2. [Basic concepts of Functional Programming (workshop)](http://theimowski.com/fsharp-workshops-basics)
+3. Functional Data Structures (workshop)
+4. Writing .NET applications in F# (workshop)
 
 ***
 
