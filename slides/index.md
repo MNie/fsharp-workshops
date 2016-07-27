@@ -11,7 +11,7 @@
 1. [Introduction to Functional Programming (talk only)](http://theimowski.com/fsharp-workshops-intro)
 2. [Basic concepts of Functional Programming (workshop)](http://theimowski.com/fsharp-workshops-basics)
 3. [Functional Data Structures (workshop)](http://theimowski.com/fsharp-workshops-data)
-4. Writing .NET applications in F# (workshop)
+4. [Writing .NET applications in F# (workshop)](http://theimowski.com/fsharp-workshops-apps)
 
 ***
 
